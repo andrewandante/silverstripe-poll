@@ -2,7 +2,7 @@
 	"name": "firesphere/poll",
 	"description": "Simplified Poll Module",
 	"type": "silverstripe-module",
-	"homepage": "http://github.com/Firesphere/silverstripe-poll",
+	"homepage": "http://github.com/andrewandante/silverstripe-poll",
 	"keywords": ["silverstripe", "Polling"],
 	"license": "BSD-2-Clause",
 	"authors": [
@@ -11,10 +11,15 @@
 		"email": "github@casa-laguna.net",
 		"homepage": "http://casa-laguna.net",
 		"role": "Developer"
+	},
+	{
+		"name": "Andrew Aitken-Fincham",
+		"email": "andrewandante@gmail.com",
+		"role": "Support Developer"
 	}
 	],
 	"support": {
-		"issues": "http://github.com/Firesphere/silverstripe-poll/issues"
+		"issues": "http://github.com/andrewandante/silverstripe-poll/issues"
 	},
 	"require": {
 		"silverstripe/cms": "~3.1",

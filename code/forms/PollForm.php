@@ -29,7 +29,7 @@ class PollForm extends Form {
                 );
                 
                 $actions = FieldList::create(
-                        FormAction::create('submitPoll', 'Verstuur')
+                        FormAction::create('submitPoll', 'Submit')
                 );
 
 		$validator = RequiredFields::create(array('PollChoices'));
